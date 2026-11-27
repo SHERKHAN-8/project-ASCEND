@@ -1,0 +1,1262 @@
+{
+  "version": "2026-11-27.1",
+  "days": [
+    {
+      "d": 1,
+      "tag": "W1 • HL1 (Closed)",
+      "s1": [
+        "Chemistry",
+        "chem_atomic",
+        "Atomic Structure (Slot 1/2)",
+        "Quantum numbers, radial/angular nodes, Bohr formulas • 25 PYQs + Graph Drill.",
+        "Prime + Ghiso • 4.5h",
+        25
+      ],
+      "s2": [
+        "Physics",
+        "phy_mech1",
+        "1D/2D Kinematics Short Notes Prep (Slot 1/2)",
+        "Motion graphs (v-t, a-t, v-x) formula lock & Zombie recall.",
+        "Zombie • 1.0h",
+        10
+      ]
+    },
+    {
+      "d": 2,
+      "tag": "W1 • HL1 (Closed)",
+      "s1": [
+        "Chemistry",
+        "chem_atomic",
+        "Atomic Structure — Theory Completion + PYQs (Slot 2/2)",
+        "Finish quantum numbers, radial/angular nodes, Bohr spectrum • 25 PYQs + Graph Drill.",
+        "Prime 1 + Ghiso • 5.0h",
+        25
+      ],
+      "s2": [
+        "Physics",
+        "phy_mech1",
+        "1D/2D Kinematics & NLM — Notes Revision + PYQs (Slot 2/2)",
+        "Revise motion graphs, projectiles, FBD & friction notes • 30 timed PYQs.",
+        "Prime 2 + Ghiso • 5.0h",
+        30
+      ]
+    },
+    {
+      "d": 3,
+      "tag": "W1 • HL1 (Closed)",
+      "s1": [
+        "Maths",
+        "math_func_lim",
+        "Sets, Relations & Equivalence Class (Slot 1/2)",
+        "Sets, reflexive/symmetric/transitive/equivalence relations, equivalence classes & number of relations • 25 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_bonding",
+        "Chemical Bonding & MOT (Slot 1/2)",
+        "Lewis structures, VSEPR, hybridization, dipole moments, Fajan's rules • 25 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        25
+      ]
+    },
+    {
+      "d": 4,
+      "tag": "W1 • HL1 (Closed)",
+      "s1": [
+        "Maths",
+        "math_func_lim",
+        "Functions — Domain, Range & Inverse (Slot 2/2)",
+        "Domain/range, one-one/onto classification, composite, inverse & functional equations • 25 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_bonding",
+        "Chemical Bonding & MOT (Slot 2/2)",
+        "MOT bond orders, paramagnetism, H-bonding, back bonding • 25 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        25
+      ]
+    },
+    {
+      "d": 5,
+      "tag": "W1 • HL1 (Closed)",
+      "s1": [
+        "Maths",
+        "math_quad_complex",
+        "Quadratic Equations (Slot 1/2)",
+        "Common roots, location of roots, Newton's sum, parabola sign & range • 25 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        25
+      ],
+      "s2": [
+        "Physics",
+        "phy_wep",
+        "Work, Energy, Power & Circular Motion (Slot 1/1)",
+        "Work-energy theorem, U(x) equilibrium, vertical circle, collisions • 30 PYQs.",
+        "Prime 2 + Ghiso • 5.0h",
+        30
+      ]
+    },
+    {
+      "d": 6,
+      "tag": "Rescheduled → Dec 1–2",
+      "s1": [
+        "Physics",
+        "phy_electro",
+        "Electrostatics (Moved to Dec 1–2)",
+        "Shifted cleanly to Days 11–12 before Current Electricity so you can rest & recover.",
+        "Restored • Dec 1",
+        0
+      ],
+      "s2": [
+        "Maths",
+        "math_func_lim",
+        "Recovery / Light Formula Scan",
+        "Rest & hydrate tonight; focus only on Day 07 Limits.",
+        "Recovery",
+        0
+      ]
+    },
+    {
+      "d": 7,
+      "tag": "W1 • HL1 (1-Slot Focus)",
+      "s1": [
+        "Maths",
+        "math_func_lim",
+        "Limits (Slot 1/2 — L&CD)",
+        "0/0, ∞/∞, 1^∞ forms, L'Hôpital, Taylor/Maclaurin expansion, sandwich theorem • Sheet #13 (25 PYQs).",
+        "2-3h Rev • 3.5h",
+        25
+      ],
+      "s2": [
+        "Maths",
+        "math_seq_series",
+        "Sequences & Series (Moved to Sun, Nov 29)",
+        "Shifted to Day 09 Sunday Buffer so you only finish Limits tonight.",
+        "Moved → D09",
+        0
+      ]
+    },
+    {
+      "d": 8,
+      "tag": "W1 • HL1 (School)",
+      "s1": [
+        "Physics",
+        "phy_thermo",
+        "Thermodynamics & KTG (Slot 1/2)",
+        "First law, P-V cyclic work, isothermal vs adiabatic graphs • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_thermo",
+        "Chemical Thermodynamics (Slot 1/2)",
+        "Paired with Phy Thermo: First law, work sign convention, Hess law • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 9,
+      "tag": "Weekly Test 1",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_mech1",
+        "WEEKLY CUMULATIVE TEST 1 (09:00–12:00)",
+        "50 Questions covering Nov 21–28 Hit List 1 syllabus.",
+        "Test • 3.0h",
+        25,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_seq_series",
+        "Sequences & Series (Catch-Up from Nov 27) + Error Autopsy",
+        "AP, GP, AGP, AM-GM inequality, telescoping V_n method • Sheet #14 (25 PYQs).",
+        "2-3h Rev • 3.0h",
+        25
+      ]
+    },
+    {
+      "d": 10,
+      "tag": "W1 • HL1 Lock",
+      "s1": [
+        "Physics",
+        "phy_thermo",
+        "Thermodynamics & KTG (Slot 2/2)",
+        "Carnot efficiency, degrees of freedom, v_rms, gas mixtures • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_thermo",
+        "Chemical Thermodynamics (Slot 2/2)",
+        "ΔH, ΔS, Gibbs free energy (ΔG° = -RT ln K), spontaneity • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 11,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Physics",
+        "phy_electro",
+        "Electrostatics Full Manzil — Part 1 (Coulomb, E-Field & Gauss)",
+        "Coulomb force, electric field E(r) graphs, Gauss flux & dipole • Sheet #19 (25 PYQs).",
+        "Manzil 1.5x • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_goc_hc",
+        "GOC, Isomerism & Hydrocarbons (Slot 1/3)",
+        "Inductive, resonance, hyperconjugation, carbocation stability • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 12,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Physics",
+        "phy_electro",
+        "Electrostatics Full Manzil — Part 2 (Potential, Capacitors & RC)",
+        "Electric potential, electrostatic energy, dielectrics & RC circuits • Sheets #21 & #23.",
+        "Manzil 1.5x • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_goc_hc",
+        "GOC, Isomerism & Hydrocarbons (Slot 2/3)",
+        "Acidic/basic rankings, structural & stereoisomerism • 30 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        30
+      ]
+    },
+    {
+      "d": 13,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Chemistry",
+        "chem_solutions",
+        "Solutions & Colligative Properties (Slot 1/1 — Shifted)",
+        "Raoult's law (+/- deviations), Henry's law, Van 't Hoff i, ΔTb/ΔTf • Sheet #12 (25 PYQs).",
+        "Prime + Zombie • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_goc_hc",
+        "GOC, Isomerism & Hydrocarbons (Slot 3/3)",
+        "Alkene additions, ozonolysis, benzene EAS • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 14,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Physics",
+        "phy_current",
+        "Current Electricity & Instruments (Slot 1/2)",
+        "Linked from Electro: Drift velocity, Kirchhoff, cell combinations • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Maths",
+        "math_stline_circ",
+        "Straight Lines & Circles (Slot 1/2)",
+        "Parallel lines, orthocentre/circumcentre, family of lines • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 15,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Physics",
+        "phy_current",
+        "Current Electricity & Instruments (Slot 2/2)",
+        "Meter bridge, galvanometer to ammeter/voltmeter, ρ-T graphs • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Maths",
+        "math_stline_circ",
+        "Straight Lines & Circles (Slot 2/2)",
+        "Tangency condition, orthogonal circles, chord of contact • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 16,
+      "tag": "Weekly Test 2",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_electro",
+        "WEEKLY CUMULATIVE TEST 2 (09:00–12:00)",
+        "60 Questions on HL1 + HL2 (Thermo, Electro, Current, GOC).",
+        "Test • 3.0h",
+        30,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_quad_complex",
+        "Quadratic Equations (Catch-Up) + Test 2 Autopsy",
+        "Common roots, location of roots, Newton sum, parabola sign • Sheet #09 (25 PYQs).",
+        "2-3h Rev • 3.0h",
+        25
+      ]
+    },
+    {
+      "d": 17,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Chemistry",
+        "chem_kinetics",
+        "Chemical Kinetics & Arrhenius (Slot 1/1)",
+        "0th/1st order graphs, half-life ratios, Arrhenius ln k vs 1/T • 30 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        30
+      ],
+      "s2": [
+        "Maths",
+        "math_func_lim",
+        "Continuity & Differentiability (Slot 2/2 — L&CD)",
+        "Piecewise continuity, sharp corners, LHD/RHD, functional differentiability • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 18,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Physics",
+        "phy_semi_units",
+        "Semiconductors, Logic Gates & Units/Errors (Slot 1/1)",
+        "Zener regulator, rectifier graphs, NAND/NOR, Vernier/screw gauge • 30 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        30
+      ],
+      "s2": [
+        "Maths",
+        "math_vec3d",
+        "Vector Algebra (Slot 1/2)",
+        "Dot/cross products, projection, scalar/vector triple product • 30 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        30
+      ]
+    },
+    {
+      "d": 19,
+      "tag": "W2A • HL2 (School)",
+      "s1": [
+        "Chemistry",
+        "chem_mole_redox",
+        "Mole Concept & Redox (Slot 1/2)",
+        "Stoichiometry, limiting reagent, n-factor, disproportionation • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Maths",
+        "math_vec3d",
+        "3D Geometry (Slot 2/2)",
+        "Shortest distance between skew lines, mirror image & foot of perp • 30 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        30
+      ]
+    },
+    {
+      "d": 20,
+      "tag": "W2A • HL2 Lock",
+      "s1": [
+        "Chemistry",
+        "chem_mole_redox",
+        "Electrochemistry (Slot 2/2)",
+        "Nernst equation, Kohlrausch Λm vs √C graph, Faraday laws • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Maths",
+        "math_prob_stat",
+        "Statistics (Slot 1/2 — Mean, Variance & SD)",
+        "Corrected mean/variance, combined variance, coding shortcuts • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 21,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Physics",
+        "phy_grav_fluid",
+        "Gravitation & Fluid Mechanics (Slot 1/2)",
+        "g(h,d) graph, orbital/escape velocity, Kepler laws • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_halo_alc",
+        "Haloalkanes, Alcohols, Phenols & Ethers (Slot 1/2)",
+        "SN1/SN2/E1/E2 mechanisms, Lucas test, dehydration • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 22,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Physics",
+        "phy_grav_fluid",
+        "Gravitation & Fluid Mechanics (Slot 2/2)",
+        "Bernoulli efflux, terminal velocity v-t, surface tension • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_halo_alc",
+        "Haloalkanes, Alcohols, Phenols & Ethers (Slot 2/2)",
+        "Reimer-Tiemann, Kolbe, Williamson synthesis, HI ether cleavage • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 23,
+      "tag": "Weekly Test 3",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_grav_fluid",
+        "WEEKLY CUMULATIVE TEST 3 (09:00–12:00)",
+        "Focus on HL2 + early HL3 (Electrochem, Kinetics, Gravitation/Fluids, Halo/Alc).",
+        "Test • 3.0h",
+        30,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_quad_complex",
+        "Complex Numbers (Catch-Up) + Test 3 Autopsy",
+        "Modulus/argument, De Moivre, cube roots of unity, Argand locus • Sheet #11 (25 PYQs).",
+        "2-3h Rev • 3.0h",
+        25
+      ]
+    },
+    {
+      "d": 24,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Physics",
+        "phy_mag",
+        "Moving Charges & Magnetism (Slot 1/2)",
+        "Biot-Savart, Ampere B(r) graph, solenoid, moving charge circular/helical paths • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Maths",
+        "math_prob_stat",
+        "Probability & Distributions (Slot 2/2)",
+        "Conditional probability, Bayes theorem, binomial & random variable mean/variance • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 25,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Physics",
+        "phy_mag",
+        "Magnetism & Matter + Torque/Galvanometer (Slot 2/2)",
+        "Force on wire, magnetic dipole torque, dia/para/ferromagnetism • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_coord",
+        "Coordination Compounds (Slot 1/2)",
+        "IUPAC naming, VBT hybridization, CFT splitting & CFSE • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 26,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Maths",
+        "math_conics",
+        "Conic Sections (Slot 1/2 — Parabola & Ellipse)",
+        "Focal chord, tangents, eccentricity, latus rectum • 30 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        30
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_eq",
+        "Chemical Equilibrium (Slot 1/2)",
+        "Kp/Kc, degree of dissociation α, Le Chatelier, conc-time graph • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 27,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Maths",
+        "math_conics",
+        "Conic Sections (Slot 2/2 — Hyperbola)",
+        "Conjugate hyperbola, asymptotes, confocal ellipse-hyperbola • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_eq",
+        "Ionic Equilibrium (Slot 2/2)",
+        "Buffer pH, titration curve, salt hydrolysis, Ksp common-ion • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 28,
+      "tag": "W2B • HL3 (School)",
+      "s1": [
+        "Maths",
+        "math_matrices",
+        "Matrices & Properties (Slot 1/2)",
+        "Adjoint |adj(adj A)|, inverse, Cayley-Hamilton, symmetric/skew-symmetric • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_coord",
+        "Coordination Compounds — Isomerism & Organometallics (Slot 2/2)",
+        "Cis-trans/optical isomerism, spin-only μ, metal carbonyls & synergic bonding • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 29,
+      "tag": "W2B • HL3 Lock",
+      "s1": [
+        "Maths",
+        "math_matrices",
+        "Determinants & System of Equations (Slot 2/2)",
+        "Cramer rule consistency (unique/infinite/no solution), determinant properties • 25 PYQs.",
+        "Prime + Ghiso • 4.25h",
+        25
+      ],
+      "s2": [
+        "Physics",
+        "phy_solids",
+        "Mechanical Properties of Solids (Slot 1/1)",
+        "Young's & bulk modulus, stress-strain graph, elastic energy • 25 PYQs.",
+        "Ghiso + Zombie • 4.0h",
+        25
+      ]
+    },
+    {
+      "d": 30,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Physics",
+        "phy_optics",
+        "Ray & Wave Optics (Slot 1/2 — Ray Optics)",
+        "Mirrors, Lens Maker, u-v graph, prism minimum deviation • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_carbonyl",
+        "Aldehydes, Ketones & Carboxylic Acids (Slot 1/2)",
+        "Nucleophilic addition, Aldol, Cannizzaro, Haloform • 30 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        30
+      ]
+    },
+    {
+      "d": 31,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Physics",
+        "phy_optics",
+        "Ray & Wave Optics (Slot 2/2 — Wave Optics)",
+        "YDSE intensity/fringe shift, single-slit diffraction, Malus law • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_carbonyl",
+        "Aldehydes, Ketones & Carboxylic Acids (Slot 2/2)",
+        "Tollens, Fehling, Clemmensen, Wolff-Kishner, carboxylic acidity • 30 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        30
+      ]
+    },
+    {
+      "d": 32,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Maths",
+        "math_def_int",
+        "Definite Integration (Slot 1/2)",
+        "King's property, Leibniz rule, greatest integer [x], Wallis/reduction • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_amines",
+        "Amines & Diazonium Salts (Slot 1/1)",
+        "Basicity (231/213), Hoffmann, Gabriel, Hinsberg, Azo coupling • 30 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        30
+      ]
+    },
+    {
+      "d": 33,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Maths",
+        "math_def_int",
+        "Area Under Curves — AUC (Slot 2/2)",
+        "Parabola-parabola (16ab/3) & parabola-line (8a²/3m³) area graphs • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Physics",
+        "phy_modern",
+        "Modern Physics (Slot 1/2 — Dual Nature)",
+        "Photoelectric V₀-ν graph, de Broglie λ-p hyperbola • 35 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        35
+      ]
+    },
+    {
+      "d": 34,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Maths",
+        "math_diffeq",
+        "Differential Equations (Slot 1/1)",
+        "Linear DE (Integrating Factor), separable, homogeneous, Bernoulli • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Physics",
+        "phy_modern",
+        "Modern Physics (Slot 2/2 — Atoms & Nuclei)",
+        "Bohr spectral ratios, nuclear radius, binding energy, half-life • 35 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        35
+      ]
+    },
+    {
+      "d": 35,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Physics",
+        "phy_emi_ac",
+        "EMI & Alternating Current (Slot 1/1 — Full Break Block)",
+        "Faraday/Lenz, motional EMF, self/mutual inductance, LCR resonance & power factor • 35 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        35
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_pblock_salt",
+        "p-Block NCERT & Salt Analysis (Slot 1/1)",
+        "Group 13–18 trends, oxoacids, brown ring, chromyl chloride, DMG • 35 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        35
+      ]
+    },
+    {
+      "d": 36,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Chemistry",
+        "chem_dfblock",
+        "d- & f-Block Elements (Slot 1/1)",
+        "3d oxidation states, KMnO₄/K₂Cr₂O₇ titrations, lanthanoid contraction • 35 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        35
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_biomol",
+        "Biomolecules & Purification/POC (Slot 1/1)",
+        "Non-reducing sugars, DNA/RNA bases, Kjeldahl, Lassaigne's test • 30 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        30
+      ]
+    },
+    {
+      "d": 37,
+      "tag": "Weekly Test 4",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "WEEKLY CUMULATIVE TEST 4 (09:00–12:00)",
+        "Full HL3 + HL4 Focus (Optics, Modern, Organic, Calculus). Target ≥160.",
+        "Test • 3.0h",
+        35,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_carbonyl",
+        "Deep Error Autopsy & Sunday Buffer (3.0h)",
+        "Classify errors & lock NCERT Inorganic tables.",
+        "Analysis • 3.0h",
+        30,
+        true
+      ]
+    },
+    {
+      "d": 38,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Maths",
+        "math_binomial",
+        "Binomial Theorem & Remainders (Slot 1/1)",
+        "General term, independent of x, multinomial & modulo divisibility • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Physics",
+        "phy_waves_shm",
+        "SHM & Mechanical Waves (Slot 1/2 — SHM)",
+        "SHM energy vs x graph, pendulum T²-L slope, spring-mass • 25 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        25
+      ]
+    },
+    {
+      "d": 39,
+      "tag": "W3 • HL4 (Break)",
+      "s1": [
+        "Maths",
+        "math_pnc_trig",
+        "P&C & Inverse Trig Templates (Slot 1/2)",
+        "Dictionary rank, distribution, derangement, ITF principal values • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Physics",
+        "phy_waves_shm",
+        "SHM & Mechanical Waves (Slot 2/2 — Waves)",
+        "Open/closed organ pipes, beats, standing waves, Doppler • 25 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        25
+      ]
+    },
+    {
+      "d": 40,
+      "tag": "W3 • Sectionals",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "PHYSICS SECTIONAL TEST (09:00–10:15)",
+        "25 Questions (Timed 60m) + Error Autopsy. Target: 75+.",
+        "Sectional • 3.0h",
+        25,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_coord",
+        "CHEMISTRY SECTIONAL TEST (10:45–12:00)",
+        "25 Questions (Timed 45m) + Error Autopsy. Target: 75+.",
+        "Sectional • 3.0h",
+        25,
+        true
+      ]
+    },
+    {
+      "d": 41,
+      "tag": "W3 • Sectionals",
+      "isMockDay": true,
+      "s1": [
+        "Maths",
+        "math_vec3d",
+        "MATHS SECTIONAL TEST (09:00–10:30)",
+        "25 Questions (Timed 75m) + 2.5h triage analysis. Target: 45+.",
+        "Sectional • 4.0h",
+        25,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_pblock_salt",
+        "Inorganic & Organic Rapid NCERT Audit",
+        "Color tables, named reagents, Coordination & p/d-block exceptions.",
+        "Zombie • 4.0h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 42,
+      "tag": "W3 • HL4 Lock",
+      "s1": [
+        "Maths",
+        "math_pnc_trig",
+        "Application of Derivatives — AOD (Slot 2/2)",
+        "Monotonicity, local maxima/minima, tangents/normals, Rolle/LMVT • 30 PYQs.",
+        "Prime 1 + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Physics",
+        "phy_rot",
+        "Rotational Motion — Standard MI & Axes (Slot 1/1)",
+        "Parallel/perpendicular axes, pure rolling incline speed, angular momentum • 25 PYQs.",
+        "Prime 2 + Zombie • 5.0h",
+        25
+      ]
+    },
+    {
+      "d": 43,
+      "tag": "W3 • Consolidation",
+      "s1": [
+        "Physics",
+        "phy_emw",
+        "Electromagnetic Waves (Slot 1/1) + Graph Drill",
+        "E/B field amplitude, displacement current, EM spectrum + top graph PYQs • 30 PYQs.",
+        "Prime + Ghiso • 5.0h",
+        30
+      ],
+      "s2": [
+        "Physics",
+        "phy_mech1",
+        "Fix Weaknesses Queue Elimination",
+        "Clear every flagged mistake from Nov 21 – Jan 02 before Benchmark.",
+        "Ghiso + Zombie • 4.5h",
+        30,
+        true
+      ]
+    },
+    {
+      "d": 44,
+      "tag": "Syllabus Lock",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "SYLLABUS LOCK BENCHMARK (09:00–12:00)",
+        "All 42 Chapters Complete! 75-Q Benchmark. Audit ≥56 attempts.",
+        "Benchmark • 3.0h",
+        40,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_coord",
+        "Benchmark Error Autopsy & Formula Lock (3.0h)",
+        "Zero fresh theory after Jan 3 — enter Winter Break Mock Phase.",
+        "Autopsy • 3.0h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 45,
+      "tag": "Full Mock 1 (Break)",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "FULL MOCK 1 (09:00–12:00 NTA Shift)",
+        "Complete 75Q CBT Simulation in actual morning exam timing.",
+        "Mock • 3.0h",
+        40,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_coord",
+        "Mock 1 — 3h Question Autopsy",
+        "Classify every miss: Reasoning vs Time Triage vs Precision.",
+        "Autopsy • 3.0h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 46,
+      "tag": "Mock 1 Repair",
+      "s1": [
+        "Physics",
+        "phy_electro",
+        "MOCK 1 TARGETED REPAIR (4.0h)",
+        "30 PYQs strictly on top 3 weak chapters from Mock 1.",
+        "Prime + Ghiso • 4.5h",
+        30,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_biomol",
+        "NCERT Active Recall & Named Reactions",
+        "Inorganic color tables, Biomolecules, Organic reagents.",
+        "Zombie • 4.0h",
+        30,
+        true
+      ]
+    },
+    {
+      "d": 47,
+      "tag": "Full Mock 2 (Break)",
+      "isMockDay": true,
+      "s1": [
+        "Chemistry",
+        "chem_bonding",
+        "FULL MOCK 2 (09:00–12:00 NTA Shift)",
+        "Enforce Chem (40m) → Phy (50m) → Maths (70m) → Buffer (20m).",
+        "Mock • 3.0h",
+        40,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_vec3d",
+        "Mock 2 — 3h Post-Mortem Audit",
+        "Pacing & 45-second skip discipline audit.",
+        "Autopsy • 3.0h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 48,
+      "tag": "Full Mock 3 (Break)",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_optics",
+        "FULL MOCK 3 (15:00–18:00 Shift 2 Sim)",
+        "Evening Shift Simulation: Stamina test during afternoon dip.",
+        "Mock • 3.0h",
+        40,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_carbonyl",
+        "Mock 3 — 3h Stamina & Accuracy Audit",
+        "Eliminate silly sign/unit slips under fatigue.",
+        "Autopsy • 3.0h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 49,
+      "tag": "Mock 2–3 Repair",
+      "s1": [
+        "Physics",
+        "phy_current",
+        "PHYSICS PRECISION & GRAPH DRILL (4.0h)",
+        "Units, decimal conversions & slope/area graph PYQ lock.",
+        "Prime + Ghiso • 4.5h",
+        30,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_conics",
+        "MATHS SELECTION & FORMULA LOCK (4.0h)",
+        "Conics tangents, King's property, Skew lines, Matrices.",
+        "Ghiso + Zombie • 4.0h",
+        30,
+        true
+      ]
+    },
+    {
+      "d": 50,
+      "tag": "Full Mock 4 (Break)",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_mech1",
+        "FULL MOCK 4 (09:00–12:00 NTA Shift)",
+        "High-Stakes Simulation: Enforce ≥85.7% accuracy (≥56 attempts).",
+        "Mock • 3.0h",
+        40,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_def_int",
+        "Mock 4 — 3h Trajectory Audit",
+        "Verify ≥192/300 (99%ile) readiness before school reopens Jan 10.",
+        "Autopsy • 3.0h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 51,
+      "tag": "Full Mock 5 (Sun)",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "FULL MOCK 5 (09:00–12:00 Confidence Lock)",
+        "Final full-length paper on Sunday before final school week.",
+        "Mock • 3.0h",
+        40,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_pblock_salt",
+        "Mock 5 Light Review & Rhythm Lock",
+        "Review errors calmly; lock exam-day pacing.",
+        "Autopsy • 2.5h",
+        35,
+        true
+      ]
+    },
+    {
+      "d": 52,
+      "tag": "W4 • Final Lock",
+      "s1": [
+        "Physics",
+        "phy_mag",
+        "MOCK 4–5 TARGETED REPAIR (3.5h)",
+        "Patch recurring errors across Electrodynamics & Modern Physics.",
+        "Prime • 3.5h",
+        25,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_coord",
+        "Zombie NCERT Scan: Coordination & d/f-Block",
+        "Zero new theory — active recall of colors, ligands, CFT.",
+        "Ghiso + Zombie • 4.0h",
+        25,
+        true
+      ]
+    },
+    {
+      "d": 53,
+      "tag": "W4 • Final Lock",
+      "s1": [
+        "Maths",
+        "math_vec3d",
+        "TIER-1 MATHS SPEED LOCK (3.5h)",
+        "Vectors/3D, Matrices, Statistics, Sequences — 25 timed PYQs.",
+        "Prime • 3.5h",
+        25,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_mole_redox",
+        "Physical Chem Integer Precision Drill",
+        "20 Section-B numericals (Nernst, Kinetics, Solutions, Thermo).",
+        "Ghiso + Zombie • 4.0h",
+        20,
+        true
+      ]
+    },
+    {
+      "d": 54,
+      "tag": "W4 • Final Lock",
+      "s1": [
+        "Physics",
+        "phy_thermo",
+        "PHYSICS FORMULA & GRAPH MASTER SCAN",
+        "Review all 11 Physics concept graphs & high-yield formulas.",
+        "Prime • 3.5h",
+        20,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_carbonyl",
+        "Organic Named Reactions & Tests Recall",
+        "Aldol, Cannizzaro, Reimer-Tiemann, Tollens, Iodoform, Hinsberg.",
+        "Ghiso + Zombie • 4.0h",
+        20,
+        true
+      ]
+    },
+    {
+      "d": 55,
+      "tag": "W4 • Final Lock",
+      "s1": [
+        "Maths",
+        "math_def_int",
+        "CALCULUS & CONICS SHORTCUT LOCK",
+        "King's property, 16ab/3, linear IF, parabola/ellipse tangents.",
+        "Prime • 3.5h",
+        20,
+        true
+      ],
+      "s2": [
+        "Physics",
+        "phy_semi_units",
+        "Error-Log Triage Queue Sweep (Part 1)",
+        "Re-attempt every remaining Physics mistake in Fix Weaknesses.",
+        "Ghiso + Zombie • 4.0h",
+        20,
+        true
+      ]
+    },
+    {
+      "d": 56,
+      "tag": "W4 • Final Lock",
+      "s1": [
+        "Chemistry",
+        "chem_pblock_salt",
+        "NCERT Inorganic Line-by-Line Lock",
+        "p-Block exceptions, Salt Analysis confirmatory tests, Biomolecules.",
+        "Prime • 3.5h",
+        20,
+        true
+      ],
+      "s2": [
+        "Maths",
+        "math_prob_stat",
+        "Error-Log Triage Queue Sweep (Part 2)",
+        "Clear remaining Chemistry & Maths mistakes in Fix Weaknesses.",
+        "Ghiso + Zombie • 4.0h",
+        20,
+        true
+      ]
+    },
+    {
+      "d": 57,
+      "tag": "W4 • Final Lock",
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "PROTECTED-16 HIGH-ROI RECALL (Part 1)",
+        "Light timed warm-up across highest-weightage Physics + Maths.",
+        "Prime • 3.0h",
+        20,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_bonding",
+        "PROTECTED-16 HIGH-ROI RECALL (Part 2)",
+        "VSEPR, MOT, Coordination, GOC stability orders.",
+        "Zombie • 3.0h",
+        20,
+        true
+      ]
+    },
+    {
+      "d": 58,
+      "tag": "W4 • Taper 1",
+      "s1": [
+        "Chemistry",
+        "chem_carbonyl",
+        "COGNITIVE TAPERING 1 (2.5h)",
+        "Read NCERT Chemistry tables, exceptions & named reactions.",
+        "Zombie • 2.5h",
+        0,
+        true
+      ],
+      "s2": [
+        "Physics",
+        "phy_modern",
+        "COGNITIVE TAPERING 2 (2.0h)",
+        "Scan Physics master formula sheets + full physical rest.",
+        "Zombie • 2.0h",
+        0,
+        true
+      ]
+    },
+    {
+      "d": 59,
+      "tag": "W4 • Taper 2",
+      "s1": [
+        "Maths",
+        "math_conics",
+        "LIGHT FORMULA & GRAPH RECALL (2.0h)",
+        "Review Maths standard shortcuts & Physics/Chem graphs.",
+        "Zombie • 2.0h",
+        0,
+        true
+      ],
+      "s2": [
+        "Physics",
+        "phy_semi_units",
+        "MENTAL DECOMPRESSION (1.0h)",
+        "Early dinner, zero problem solving, sleep by 22:00.",
+        "Rest • 1.0h",
+        0,
+        true
+      ]
+    },
+    {
+      "d": 60,
+      "tag": "Exam Eve Lock",
+      "isMockDay": true,
+      "s1": [
+        "Physics",
+        "phy_modern",
+        "EXAMINATION EVE LOCK (2.0h)",
+        "Max 2h morning master formula scan. Zero problem solving.",
+        "Eve • 2.0h",
+        0,
+        true
+      ],
+      "s2": [
+        "Chemistry",
+        "chem_biomol",
+        "ADMIT CARD & KIT LOCK (1.0h)",
+        "Pack admit card, ID & kit. Enter Jan 21 exam in peak rhythm.",
+        "Ready • 1.0h",
+        0,
+        true
+      ]
+    }
+  ]
+}

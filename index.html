@@ -1273,6 +1273,10 @@
           <button id="headerLaunchNtaBtn" class="spring-btn px-2.5 py-1 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white text-[11px] font-display font-bold flex items-center gap-1.5 shadow-sm" title="Launch 1-Click NTA CBT Chapter Test Simulator">
             <span>&#9889; NTA CBT Test</span>
           </button>
+          <button id="headerForceUpdateBtn" type="button" class="spring-btn px-2.5 py-1 rounded-xl bg-white hover:bg-indigo-50 border border-indigo-200 text-indigo-700 text-xs font-bold flex items-center gap-1 shadow-2xs" title="Fetch latest schedule.json & refresh app">
+            <span>&#128260;</span>
+            <span>Update</span>
+          </button>
 
           <!-- Raycast-Style ⌘K Command Palette Trigger -->
           <button id="openCmdPaletteBtn" class="spring-btn px-2.5 py-1 rounded-lg bg-white hover:bg-slate-50 border border-slate-200 text-xs text-slate-600 hover:text-slate-900 flex items-center gap-2 shadow-2xs" title="Open Command Palette (Ctrl+K / Cmd+K)">
@@ -2646,21 +2650,21 @@
         { d: 3, tag: 'W1 • HL1 (Closed)', s1: ['Maths', 'math_func_lim', 'Sets, Relations & Equivalence Class (Slot 1/2)', 'Sets, reflexive/symmetric/transitive/equivalence relations, equivalence classes & number of relations • 25 PYQs.', 'Prime 1 + Ghiso • 5.0h', 25], s2: ['Chemistry', 'chem_bonding', 'Chemical Bonding & MOT (Slot 1/2)', 'Lewis structures, VSEPR, hybridization, dipole moments, Fajan\'s rules • 25 PYQs.', 'Prime 2 + Zombie • 5.0h', 25] },
         { d: 4, tag: 'W1 • HL1 (Closed)', s1: ['Maths', 'math_func_lim', 'Functions — Domain, Range & Inverse (Slot 2/2)', 'Domain/range, one-one/onto classification, composite, inverse & functional equations • 25 PYQs.', 'Prime 1 + Ghiso • 5.0h', 25], s2: ['Chemistry', 'chem_bonding', 'Chemical Bonding & MOT (Slot 2/2)', 'MOT bond orders, paramagnetism, H-bonding, back bonding • 25 PYQs.', 'Prime 2 + Zombie • 5.0h', 25] },
         { d: 5, tag: 'W1 • HL1 (Closed)', s1: ['Maths', 'math_quad_complex', 'Quadratic Equations (Slot 1/2)', 'Common roots, location of roots, Newton\'s sum, parabola sign & range • 25 PYQs.', 'Prime 1 + Ghiso • 5.0h', 25], s2: ['Physics', 'phy_wep', 'Work, Energy, Power & Circular Motion (Slot 1/1)', 'Work-energy theorem, U(x) equilibrium, vertical circle, collisions • 30 PYQs.', 'Prime 2 + Ghiso • 5.0h', 30] },
-        { d: 6, tag: 'Manzil • Full Electrostatics', s1: ['Physics', 'phy_electro', 'Electrostatics Full Manzil — Part 1 (Coulomb, E-Field & Gauss)', 'Coulomb force, electric field E(r) graphs, Gauss flux & dipole • Sheet #19 (25 PYQs).', 'Manzil 1.5x • 5.0h', 25], s2: ['Physics', 'phy_electro', 'Electrostatics Full Manzil — Part 2 (Potential, Capacitors & RC)', 'Electric potential, electrostatic energy, dielectrics & RC circuits • Sheets #21 & #23.', 'Manzil 1.5x • 5.0h', 25] },
-        { d: 7, tag: 'W1 • HL1 Lock', s1: ['Maths', 'math_func_lim', 'Limits (Slot 1/2 — L&CD)', '0/0, ∞/∞, 1^∞ forms, L\'Hôpital, Taylor/Maclaurin expansion, sandwich theorem • 25 PYQs.', 'Prime 1 + Ghiso • 5.0h', 25], s2: ['Maths', 'math_seq_series', 'Sequences & Series (Slot 1/1)', 'AP, GP, AGP, AM-GM inequality, telescoping V_n method • 30 PYQs.', 'Prime 2 + Ghiso • 5.0h', 30] },
+        { d: 6, tag: 'Rescheduled → Dec 1–2', s1: ['Physics', 'phy_electro', 'Electrostatics (Moved to Dec 1–2)', 'Shifted cleanly to Days 11–12 before Current Electricity so you can rest & recover.', 'Restored • Dec 1', 0], s2: ['Maths', 'math_func_lim', 'Recovery / Light Formula Scan', 'Rest & hydrate tonight; focus only on Day 07 Limits.', 'Recovery', 0] },
+        { d: 7, tag: 'W1 • HL1 (1-Slot Focus)', s1: ['Maths', 'math_func_lim', 'Limits (Slot 1/2 — L&CD)', '0/0, ∞/∞, 1^∞ forms, L\'Hôpital, Taylor/Maclaurin expansion, sandwich theorem • Sheet #13 (25 PYQs).', '2-3h Rev • 3.5h', 25], s2: ['Maths', 'math_seq_series', 'Sequences & Series (Moved to Sun, Nov 29)', 'Shifted to Day 09 Sunday Buffer so you only finish Limits tonight.', 'Moved → D09', 0] },
 
         // WINDOW 1 EXTENDED (NOV 28 – NOV 30 • DAYS 08–10 • SCHOOL 1–5:30 PM • THERMO PAIR CLOSES HL1)
         { d: 8, tag: 'W1 • HL1 (School)', s1: ['Physics', 'phy_thermo', 'Thermodynamics & KTG (Slot 1/2)', 'First law, P-V cyclic work, isothermal vs adiabatic graphs • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_thermo', 'Chemical Thermodynamics (Slot 1/2)', 'Paired with Phy Thermo: First law, work sign convention, Hess law • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
-        { d: 9, tag: 'Weekly Test 1', isMockDay: true, s1: ['Physics', 'phy_mech1', 'WEEKLY CUMULATIVE TEST 1 (09:00–12:00)', '50 Questions covering Nov 21–28 Hit List 1 syllabus.', 'Test • 3.0h', 25, true], s2: ['Chemistry', 'chem_bonding', 'Deep Error Autopsy & Sunday Buffer (3.0h)', 'Error-log triage + patch any unfinished HL1 subtopic.', 'Analysis • 3.0h', 25, true] },
+        { d: 9, tag: 'Weekly Test 1', isMockDay: true, s1: ['Physics', 'phy_mech1', 'WEEKLY CUMULATIVE TEST 1 (09:00–12:00)', '50 Questions covering Nov 21–28 Hit List 1 syllabus.', 'Test • 3.0h', 25, true], s2: ['Maths', 'math_seq_series', 'Sequences & Series (Catch-Up from Nov 27) + Error Autopsy', 'AP, GP, AGP, AM-GM inequality, telescoping V_n method • Sheet #14 (25 PYQs).', '2-3h Rev • 3.0h', 25] },
         { d: 10, tag: 'W1 • HL1 Lock', s1: ['Physics', 'phy_thermo', 'Thermodynamics & KTG (Slot 2/2)', 'Carnot efficiency, degrees of freedom, v_rms, gas mixtures • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_thermo', 'Chemical Thermodynamics (Slot 2/2)', 'ΔH, ΔS, Gibbs free energy (ΔG° = -RT ln K), spontaneity • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
 
         // WINDOW 2A: SCHOOL CRUISE — HIT LIST 2 (DEC 01 – DEC 10 • 10 SCHOOL DAYS • 8.25h/DAY)
-        { d: 11, tag: 'W2A • HL2 (School)', s1: ['Maths', 'math_quad_complex', 'Quadratic Equations (Slot 1/2 — Shifted)', 'Common roots, location of roots, Newton\'s sum, parabola sign & range • Sheet #09 (25 PYQs).', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_goc_hc', 'GOC, Isomerism & Hydrocarbons (Slot 1/3)', 'Inductive, resonance, hyperconjugation, carbocation stability • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
-        { d: 12, tag: 'W2A • HL2 (School)', s1: ['Maths', 'math_quad_complex', 'Complex Numbers (Slot 2/2 — Shifted)', 'Modulus/argument, De Moivre, cube roots of unity, Argand locus • Sheet #11 (25 PYQs).', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_goc_hc', 'GOC, Isomerism & Hydrocarbons (Slot 2/3)', 'Acidic/basic rankings, structural & stereoisomerism • 30 PYQs.', 'Ghiso + Zombie • 4.0h', 30] },
+        { d: 11, tag: 'W2A • HL2 (School)', s1: ['Physics', 'phy_electro', 'Electrostatics Full Manzil — Part 1 (Coulomb, E-Field & Gauss)', 'Coulomb force, electric field E(r) graphs, Gauss flux & dipole • Sheet #19 (25 PYQs).', 'Manzil 1.5x • 4.25h', 25], s2: ['Chemistry', 'chem_goc_hc', 'GOC, Isomerism & Hydrocarbons (Slot 1/3)', 'Inductive, resonance, hyperconjugation, carbocation stability • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
+        { d: 12, tag: 'W2A • HL2 (School)', s1: ['Physics', 'phy_electro', 'Electrostatics Full Manzil — Part 2 (Potential, Capacitors & RC)', 'Electric potential, electrostatic energy, dielectrics & RC circuits • Sheets #21 & #23.', 'Manzil 1.5x • 4.25h', 25], s2: ['Chemistry', 'chem_goc_hc', 'GOC, Isomerism & Hydrocarbons (Slot 2/3)', 'Acidic/basic rankings, structural & stereoisomerism • 30 PYQs.', 'Ghiso + Zombie • 4.0h', 30] },
         { d: 13, tag: 'W2A • HL2 (School)', s1: ['Chemistry', 'chem_solutions', 'Solutions & Colligative Properties (Slot 1/1 — Shifted)', 'Raoult\'s law (+/- deviations), Henry\'s law, Van \'t Hoff i, ΔTb/ΔTf • Sheet #12 (25 PYQs).', 'Prime + Zombie • 4.25h', 25], s2: ['Chemistry', 'chem_goc_hc', 'GOC, Isomerism & Hydrocarbons (Slot 3/3)', 'Alkene additions, ozonolysis, benzene EAS • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
         { d: 14, tag: 'W2A • HL2 (School)', s1: ['Physics', 'phy_current', 'Current Electricity & Instruments (Slot 1/2)', 'Linked from Electro: Drift velocity, Kirchhoff, cell combinations • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Maths', 'math_stline_circ', 'Straight Lines & Circles (Slot 1/2)', 'Parallel lines, orthocentre/circumcentre, family of lines • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
         { d: 15, tag: 'W2A • HL2 (School)', s1: ['Physics', 'phy_current', 'Current Electricity & Instruments (Slot 2/2)', 'Meter bridge, galvanometer to ammeter/voltmeter, ρ-T graphs • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Maths', 'math_stline_circ', 'Straight Lines & Circles (Slot 2/2)', 'Tangency condition, orthogonal circles, chord of contact • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
-        { d: 16, tag: 'Weekly Test 2', isMockDay: true, s1: ['Physics', 'phy_electro', 'WEEKLY CUMULATIVE TEST 2 (09:00–12:00)', '60 Questions on HL1 + HL2 (Thermo, Electro, Current, GOC).', 'Test • 3.0h', 30, true], s2: ['Chemistry', 'chem_goc_hc', 'Deep Error Autopsy & Sunday Buffer (3.0h)', 'Verify ≥135 baseline & patch weak areas.', 'Analysis • 3.0h', 30, true] },
+        { d: 16, tag: 'Weekly Test 2', isMockDay: true, s1: ['Physics', 'phy_electro', 'WEEKLY CUMULATIVE TEST 2 (09:00–12:00)', '60 Questions on HL1 + HL2 (Thermo, Electro, Current, GOC).', 'Test • 3.0h', 30, true], s2: ['Maths', 'math_quad_complex', 'Quadratic Equations (Catch-Up) + Test 2 Autopsy', 'Common roots, location of roots, Newton sum, parabola sign • Sheet #09 (25 PYQs).', '2-3h Rev • 3.0h', 25] },
         { d: 17, tag: 'W2A • HL2 (School)', s1: ['Chemistry', 'chem_kinetics', 'Chemical Kinetics & Arrhenius (Slot 1/1)', '0th/1st order graphs, half-life ratios, Arrhenius ln k vs 1/T • 30 PYQs.', 'Prime + Ghiso • 4.25h', 30], s2: ['Maths', 'math_func_lim', 'Continuity & Differentiability (Slot 2/2 — L&CD)', 'Piecewise continuity, sharp corners, LHD/RHD, functional differentiability • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
         { d: 18, tag: 'W2A • HL2 (School)', s1: ['Physics', 'phy_semi_units', 'Semiconductors, Logic Gates & Units/Errors (Slot 1/1)', 'Zener regulator, rectifier graphs, NAND/NOR, Vernier/screw gauge • 30 PYQs.', 'Prime + Ghiso • 4.25h', 30], s2: ['Maths', 'math_vec3d', 'Vector Algebra (Slot 1/2)', 'Dot/cross products, projection, scalar/vector triple product • 30 PYQs.', 'Ghiso + Zombie • 4.0h', 30] },
         { d: 19, tag: 'W2A • HL2 (School)', s1: ['Chemistry', 'chem_mole_redox', 'Mole Concept & Redox (Slot 1/2)', 'Stoichiometry, limiting reagent, n-factor, disproportionation • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Maths', 'math_vec3d', '3D Geometry (Slot 2/2)', 'Shortest distance between skew lines, mirror image & foot of perp • 30 PYQs.', 'Ghiso + Zombie • 4.0h', 30] },
@@ -2669,7 +2673,7 @@
         // WINDOW 2B: SCHOOL CRUISE — HIT LIST 3 (DEC 11 – DEC 19 • 9 SCHOOL DAYS • 8.25h/DAY)
         { d: 21, tag: 'W2B • HL3 (School)', s1: ['Physics', 'phy_grav_fluid', 'Gravitation & Fluid Mechanics (Slot 1/2)', 'g(h,d) graph, orbital/escape velocity, Kepler laws • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_halo_alc', 'Haloalkanes, Alcohols, Phenols & Ethers (Slot 1/2)', 'SN1/SN2/E1/E2 mechanisms, Lucas test, dehydration • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
         { d: 22, tag: 'W2B • HL3 (School)', s1: ['Physics', 'phy_grav_fluid', 'Gravitation & Fluid Mechanics (Slot 2/2)', 'Bernoulli efflux, terminal velocity v-t, surface tension • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_halo_alc', 'Haloalkanes, Alcohols, Phenols & Ethers (Slot 2/2)', 'Reimer-Tiemann, Kolbe, Williamson synthesis, HI ether cleavage • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
-        { d: 23, tag: 'Weekly Test 3', isMockDay: true, s1: ['Physics', 'phy_grav_fluid', 'WEEKLY CUMULATIVE TEST 3 (09:00–12:00)', 'Focus on HL2 + early HL3 (Electrochem, Kinetics, Gravitation/Fluids, Halo/Alc).', 'Test • 3.0h', 30, true], s2: ['Chemistry', 'chem_halo_alc', 'Deep Error Autopsy & Sunday Buffer (3.0h)', 'Clear Fix Weaknesses queue & speed calibration.', 'Analysis • 3.0h', 30, true] },
+        { d: 23, tag: 'Weekly Test 3', isMockDay: true, s1: ['Physics', 'phy_grav_fluid', 'WEEKLY CUMULATIVE TEST 3 (09:00–12:00)', 'Focus on HL2 + early HL3 (Electrochem, Kinetics, Gravitation/Fluids, Halo/Alc).', 'Test • 3.0h', 30, true], s2: ['Maths', 'math_quad_complex', 'Complex Numbers (Catch-Up) + Test 3 Autopsy', 'Modulus/argument, De Moivre, cube roots of unity, Argand locus • Sheet #11 (25 PYQs).', '2-3h Rev • 3.0h', 25] },
         { d: 24, tag: 'W2B • HL3 (School)', s1: ['Physics', 'phy_mag', 'Moving Charges & Magnetism (Slot 1/2)', 'Biot-Savart, Ampere B(r) graph, solenoid, moving charge circular/helical paths • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Maths', 'math_prob_stat', 'Probability & Distributions (Slot 2/2)', 'Conditional probability, Bayes theorem, binomial & random variable mean/variance • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
         { d: 25, tag: 'W2B • HL3 (School)', s1: ['Physics', 'phy_mag', 'Magnetism & Matter + Torque/Galvanometer (Slot 2/2)', 'Force on wire, magnetic dipole torque, dia/para/ferromagnetism • 25 PYQs.', 'Prime + Ghiso • 4.25h', 25], s2: ['Chemistry', 'chem_coord', 'Coordination Compounds (Slot 1/2)', 'IUPAC naming, VBT hybridization, CFT splitting & CFSE • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
         { d: 26, tag: 'W2B • HL3 (School)', s1: ['Maths', 'math_conics', 'Conic Sections (Slot 1/2 — Parabola & Ellipse)', 'Focal chord, tangents, eccentricity, latus rectum • 30 PYQs.', 'Prime + Ghiso • 4.25h', 30], s2: ['Chemistry', 'chem_eq', 'Chemical Equilibrium (Slot 1/2)', 'Kp/Kc, degree of dissociation α, Le Chatelier, conc-time graph • 25 PYQs.', 'Ghiso + Zombie • 4.0h', 25] },
@@ -5913,11 +5917,14 @@
       if (badge) badge.textContent = `Day ${String(curDayObj.day).padStart(2, '0')} • ${curDayObj.dateStr}`;
 
       const todaySheets = DAILY_PYQ_VAULT.filter(s => {
-        if (curDayObj.day === 6) return [19, 21, 23].includes(s.idx);
-        if (curDayObj.day === 11) return s.idx === 9 || (s.day === 11 && s.subject !== 'Physics');
-        if (curDayObj.day === 12) return s.idx === 11 || (s.day === 12 && s.subject !== 'Physics');
+        if (curDayObj.day === 6) return false;
+        if (curDayObj.day === 7) return s.idx === 13;
+        if (curDayObj.day === 9) return s.idx === 10 || s.idx === 14;
+        if (curDayObj.day === 11) return s.idx === 19 || (s.day === 11 && s.subject !== 'Physics');
+        if (curDayObj.day === 12) return s.idx === 21 || s.idx === 23 || (s.day === 12 && s.subject !== 'Physics');
         if (curDayObj.day === 13) return s.idx === 12 || (s.day === 13 && s.subject !== 'Physics');
-        if (curDayObj.day === 9) return s.day === 9 || s.idx === 10;
+        if (curDayObj.day === 16) return s.idx === 9;
+        if (curDayObj.day === 23) return s.idx === 11;
         return s.day === curDayObj.day;
       });
       if (!todaySheets.length) {
@@ -6427,6 +6434,77 @@
           setTimeout(dismissSplash, 2250);
         });
       }
+    })();
+  </script>
+  <script>
+    (function initLiveScheduleSync() {
+      async function applyRemoteSchedule(showToastMsg) {
+        try {
+          const res = await fetch('./schedule.json?v=' + Date.now(), { cache: 'no-store' });
+          if (!res.ok) return false;
+          const data = await res.json();
+          if (!data || !Array.isArray(data.days) || data.days.length !== 60 || typeof appState === 'undefined') return false;
+
+          data.days.forEach(item => {
+            const dObj = appState.days.find(d => d.day === item.d);
+            if (!dObj) return;
+            dObj.tag = item.tag || dObj.tag;
+            const incoming = [item.s1, item.s2, item.s3].filter(Boolean);
+            const updatedSlots = incoming.map((arr, idx) => {
+              const slotId = `d${item.d}_s${idx + 1}`;
+              const prev = (dObj.slots || []).find(s => s.slotId === slotId) || (dObj.slots || [])[idx];
+              const ch = (typeof CHAPTER_REGISTRY !== 'undefined' ? CHAPTER_REGISTRY.find(c => c.id === arr[1]) : null) || {};
+              return {
+                slotId,
+                subject: arr[0],
+                chapterId: arr[1],
+                title: arr[2],
+                microFocus: arr[3],
+                depthMeta: arr[4] || '4.0h Core',
+                tier: ch.tier || (prev ? prev.tier : 1),
+                isProtected: Boolean(ch.protected),
+                pyqTarget: arr[5] !== undefined ? arr[5] : (ch.pyqTarget || 25),
+                isNonSyllabus: Boolean(arr[6]),
+                meanQs: ch.meanQs || 1.5,
+                marksWeight: ch.marks || 6,
+                done: prev ? Boolean(prev.done) : false,
+                completedOnDay: prev ? (prev.completedOnDay || null) : null
+              };
+            });
+            dObj.slots = updatedSlots;
+          });
+
+          if (typeof saveStateToStorage === 'function') {
+            saveStateToStorage(showToastMsg ? `Synced schedule v${data.version || 'latest'}!` : undefined);
+          }
+          if (typeof renderAll === 'function') renderAll();
+          return true;
+        } catch (e) {
+          return false;
+        }
+      }
+
+      async function forceAppUpdate() {
+        const btn = document.getElementById('headerForceUpdateBtn');
+        if (btn) btn.style.opacity = '0.6';
+        try {
+          if ('caches' in window) {
+            const keys = await caches.keys();
+            await Promise.all(keys.map(k => caches.delete(k)));
+          }
+        } catch (e) {}
+        const ok = await applyRemoteSchedule(true);
+        if (btn) btn.style.opacity = '1';
+        if (!ok) {
+          location.replace(location.pathname + '?v=' + Date.now());
+        }
+      }
+
+      const upBtn = document.getElementById('headerForceUpdateBtn');
+      if (upBtn) upBtn.addEventListener('click', forceAppUpdate);
+
+      // Silently sync schedule.json on app launch if online
+      window.addEventListener('load', () => { setTimeout(() => applyRemoteSchedule(false), 600); });
     })();
   </script>
 </body>
